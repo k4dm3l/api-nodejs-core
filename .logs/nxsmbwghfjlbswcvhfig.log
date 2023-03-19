@@ -1,0 +1,1 @@
+{"check":{"id":"nxsmbwghfjlbswcvhfig","userPhone":"3105571908","protocol":"https","url":"twitter.com","method":"get","sucessCodes":[200,201,403],"timeoutSeconds":3,"state":"down","lastChecked":1679247798683},"otucome":{"error":false,"responseCode":200},"state":"down","alert":false,"time":1679247835613}

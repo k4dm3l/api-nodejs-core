@@ -1,0 +1,11 @@
+{
+  "id": "nxsmbwghfjlbswcvhfig",
+  "userPhone": "0000000000",
+  "protocol": "https",
+  "url": "twitter.com",
+  "method": "get",
+  "sucessCodes": [200, 201, 403],
+  "timeoutSeconds": 3,
+  "state": "down",
+  "lastChecked": 1679247835613
+}
